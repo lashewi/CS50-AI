@@ -12,8 +12,12 @@ Projects for [CS50's Introduction to Artificial Intelligence with Python](http:/
   - Uncertainty:
     - [PageRank](./pagerank/) : Evaluates pagerank using the PageRank Algorithm using corpus of HTML webpage.
     - [Heredity](./heredity/) : An AI to predict the likelihood of a person having a genetic trait, using a Bayesian Network.
+  - Optimization
+    - [Crossword](./crossword/) : An AI to predict the likelihood of a person having a genetic trait, using a Bayesian Network.
+  - Learning
+    - [Shopping](./shopping/) : An AI to predict whether online shopping customers will complete a purchase.
 
-  
+
 ### Completed Demos:
 [Youtube](https://www.youtube.com/playlist?list=PLBk9oZ4AUb2sBAk5qfRq1UgUiEH7ixD-Q)
 
