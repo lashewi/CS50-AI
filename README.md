@@ -16,6 +16,12 @@ Projects for [CS50's Introduction to Artificial Intelligence with Python](http:/
     - [Crossword](./crossword/) : An AI to predict the likelihood of a person having a genetic trait, using a Bayesian Network.
   - Learning
     - [Shopping](./shopping/) : An AI to predict whether online shopping customers will complete a purchase.
+    - [Nim](./nim/) : An AI that teaches itself to play Nim through reinforcement learning.
+  - Neural Networks
+    - [Traffic](./traffic/) : An AI AI to identify which traffic sign appears in a photograph.
+  - Language
+    - [Parser](./parser/) : An AI to parse sentences and extract noun phrases.
+    - [Questions](./questions/) : An AI to answer questions.
 
 
 ### Completed Demos:
