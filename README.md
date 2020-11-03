@@ -25,5 +25,5 @@ Projects for [CS50's Introduction to Artificial Intelligence with Python](http:/
 
 
 ### Completed Demos:
-[Youtube](https://www.youtube.com/playlist?list=PLBk9oZ4AUb2sBAk5qfRq1UgUiEH7ixD-Q)
+[Youtube playlist](https://www.youtube.com/playlist?list=PLBk9oZ4AUb2sBAk5qfRq1UgUiEH7ixD-Q)
 
